@@ -1,0 +1,1 @@
+int lr1(void);
